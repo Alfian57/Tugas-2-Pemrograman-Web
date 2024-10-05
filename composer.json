@@ -1,0 +1,17 @@
+{
+  "name": "alfiang/tugas-2",
+  "authors": [
+    {
+      "name": "Alfian57",
+      "email": "alfiangadingsaputra@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/",
+      "Core\\": "Core/",
+      "Repositories\\": "Repositories/"
+    }
+  },
+  "require": {}
+}
